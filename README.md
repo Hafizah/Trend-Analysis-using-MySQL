@@ -1,4 +1,4 @@
-# More traffic on mobile or desktop?
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/banner.png)
 
 ## Introduction
 
