@@ -34,11 +34,14 @@ Looking at the data distribution weekly helps analyst measure spikes and drops i
 ### 3. Which source is bringing more traffic to the site?
 
 #### Answer
-![Banner]()
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/Traffic%20source.jpg)
 
+### 4. 
 
+#### Answer
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/brand%20non.jpg)
 
-
+## Conclusion
 
 
 
