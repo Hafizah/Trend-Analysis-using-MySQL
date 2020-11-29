@@ -17,17 +17,20 @@ Variable | Description
 **utm_campaign** | Urchin tracking module to monitor specific campaign
 **device_type** | Type of device used to access website
 
-## Question 1
-
-What is the weekly trend of customer's visit for the month of October between desktop and mobile?
+## Questions
+How does traffic on desktop compared to mobile?
 
 ### Answer
+<p align="center">
+  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg">
+</p>
 
-To answer this question, I used COUNT and CASE function to pivot the answers into a neat table.
+## Question 2
+What is the weekly trend of customer's visit for the month of October between desktop and mobile?
 <p align="center">
   <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg">
 </p>
-
+I used COUNT and CASE functions to create a pivot table.
 
 <p align="center">
   <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend%20colored.jpg">
