@@ -24,3 +24,11 @@ What is the weekly trend of customer's visit for the month of October between de
 ### Answer
 
 To answer this question, I used COUNT and CASE function to pivot the answers into a neat table.
+<p align="center">
+  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg">
+</p>
+
+
+<p align="center">
+  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend%20colored.jpg">
+</p>
