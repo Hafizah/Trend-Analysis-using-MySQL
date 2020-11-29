@@ -24,9 +24,12 @@ I used COUNT and CASE functions to calculate the total number of customers' visi
 
 
 ### 2.  What is the weekly trend of customer's visit for the month of October between desktop and mobile?
+![traffic surge](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/traffic%20surge%20.jpg)
+
+### 3. 
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg)
 
-I used COUNT and CASE functions to create a pivot table.
+
 
 
 
