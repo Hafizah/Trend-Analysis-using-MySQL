@@ -21,17 +21,14 @@ Variable | Description
 How does traffic on desktop compared to mobile?
 
 ### Answer
-<p align="center">
-  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg">
-</p>
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg)
+
 
 ## Question 2
 What is the weekly trend of customer's visit for the month of October between desktop and mobile?
-<p align="center">
-  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg">
-</p>
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg)
+
 I used COUNT and CASE functions to create a pivot table.
 
-<p align="center">
-  <img width="730" height="350" src="https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend%20colored.jpg">
-</p>
+![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend%20colored.jpg)
+
