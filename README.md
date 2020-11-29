@@ -24,10 +24,20 @@ I used COUNT and CASE functions to calculate the total number of customers' visi
 
 
 ### 2.  What is the weekly trend of customer's visit for the month of October between desktop and mobile?
+
+#### Answer
 ![traffic surge](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/traffic%20surge%20.jpg)
 
-### 3. 
-![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend.jpg)
+Looking at the data distribution weekly helps analyst measure spikes and drops in traffic on both devices especially after changes made. For example, increase or decrease in bidding.
+
+
+### 3. Which source is bringing more traffic to the site?
+
+#### Answer
+![Banner]()
+
+
+
 
 
 
