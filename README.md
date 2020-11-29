@@ -30,5 +30,5 @@ Using this information, a marketer can make better decision in terms of bidding 
 
 I used COUNT and CASE functions to create a pivot table.
 
-![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/weekly%20trend%20colored.jpg)
+
 
