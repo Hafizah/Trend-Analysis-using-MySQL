@@ -5,6 +5,8 @@ To analyze the weekly trend of customers' visit to an e-commerce website between
 ## Dataset
 The dataset used in this analysis was created using Excel and transformed into .sql using sqlizer.io. There are 40 rows and 6 columns altogether mimicking website sessions in October, 2020.
 
+![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
+
 Variable | Description
 ---- | -------
 **session_id** | Primary key
