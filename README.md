@@ -19,6 +19,7 @@ How does traffic on desktop compared to mobile?
 
 ### Answer
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg)
+
 I used COUNT and CASE functions to calculate the total number of customers' visits to the website for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the webpage was accessed through the desktop and only 35% through mobile phone!
 
 ### Why is it important? 
