@@ -36,7 +36,7 @@ Variable | Description
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg)
 
-The CASE and COUNT functions filter and count the total number of users sessions for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the site was accessed through desktops and 35% through mobile phones. This information helps a marketer to make better decisions in terms of bidding direction.
+The CASE and COUNT functions filter and count the total number of user sessions for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the site was accessed through desktops and 35% through mobile phones. This information helps a marketer to make better decisions in terms of bidding direction.
 
 
 ### 2.  What is the weekly trend of sessions for the month of October for both devices?
@@ -47,10 +47,12 @@ The CASE and COUNT functions filter and count the total number of users sessions
 Looking at the weekly data distribution, we can see that there was a spike in session on the mobile by 700%. An analyst should investigate this piece of information further to see what could have caused the increase. A good step forward is to compare the trend with previous years data. Changes could be made in terms of sales and promotion on the particular day or week to increase revenue.
 
 
-### 3. Which source is bringing more traffic to the site?
+### 3. Which source contributes most traffic to the site?
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/Traffic%20source.jpg)
+
+It looks like more traffic are coming from Google search engine compared to other means. 
 
 ### 4. 
 
