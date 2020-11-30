@@ -31,20 +31,20 @@ Variable | Description
 
 
 ## Questions
-### 1.  How does the traffic flow on desktop compared to on mobile?
+### 1.  How does the traffic flow looks like on the desktop compared to on the mobile?
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg)
 
-I used COUNT and CASE functions to calculate the total number of customers' visits to the website for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the webpage was accessed through the desktop and only 35% through mobile phone! Using this information, a marketer can make better decision in terms of bidding and improve customers' satisfaction when visiting the webpage using mobile phone.'
+The CASE and COUNT functions filter and count the total number of users sessions for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the site was accessed through desktops and 35% through mobile phones. This information helps a marketer to make better decisions in terms of bidding direction.
 
 
-### 2.  What is the weekly trend of customer's visit for the month of October between desktop and mobile?
+### 2.  What is the weekly trend of sessions for the month of October for both devices?
 
 #### Answer:
 ![traffic surge](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/traffic%20surge%20.jpg)
 
-Looking at the data distribution weekly helps analyst measure spikes and drops in traffic on both devices especially after changes made. For example, increase or decrease in bidding.
+Looking at the weekly data distribution helps analyst measure spikes and drops in traffic on both devices especially after changes made. For example, increase or decrease in bidding.
 
 
 ### 3. Which source is bringing more traffic to the site?
