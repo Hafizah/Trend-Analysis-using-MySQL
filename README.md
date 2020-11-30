@@ -1,9 +1,12 @@
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/banner.png)
 ## Introduction
-To analyze the weekly trend of customers' visit to an e-commerce website between desktop and mobile devices.
+Web analytics is used to analyze the success criteria of e-commerce sites in order to improve a company's revenue. One of the techniques used is to perform a traffic source analysis. The objective of the analysis is to discover the type of sources of the traffic to the sites as well as where these sources are coming from. The findings will help company's markerter to make better decision in efficiently directing bidding and guide developer to improve designs and usability of the site itself.
+
+## Objective
+to analyze the trend of the traffic source analysis.
 
 ## Dataset
-The dataset used in this analysis was created using Excel and transformed into .sql using sqlizer.io. There are 40 rows and 6 columns altogether mimicking website sessions in October, 2020.
+The dataset used in this analysis was created using Excel and transformed into sql file format using [Sqlizer](https://sqlizer.io). The dataset consists of 40 rows and 6 columns and mimicks e-commerce site sessions in October, 2020.
 
 ![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
 
