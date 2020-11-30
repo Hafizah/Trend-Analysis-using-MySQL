@@ -3,7 +3,7 @@
 Web analytics is used to analyze the success criteria of e-commerce sites in order to improve a company's revenue. One of the techniques used is to perform a traffic source analysis. The objective of the analysis is to discover the type of sources of the traffic to the sites as well as where these sources are coming from. The findings will help company's markerter to make better decision in efficiently directing bidding and guide developer to improve designs and usability of the site itself.
 
 ## Objective
-To analyze the trend of the traffic source analysis.
+To analyze the trend of the traffic source analysis by answering several guided questions.
 
 ## Dataset
 The dataset used in this analysis was created using Excel and transformed into sql file format using [Sqlizer](https://sqlizer.io). The dataset consists of 40 rows and 6 columns and imitate e-commerce site sessions in October, 2020. The image below shows the codes needed to create a table in MySQL.
@@ -15,6 +15,8 @@ You will see the word "session" used frequently in the analysis. Google Analytic
 
 > A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
 
+
+The table below shows the breakdown of all the variables in the table.
 
 Variable | Description
 ---- | -------
