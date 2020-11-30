@@ -29,7 +29,6 @@ Variable | Description
 **utm_campaign** | Urchin tracking module to monitor specific campaign
 **device_type** | The type of devices used to access the site
 <br>
-
 ## Questions
 ### 1.  How does traffic on desktop compared to mobile?
 
