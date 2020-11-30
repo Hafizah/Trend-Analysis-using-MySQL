@@ -15,14 +15,11 @@ The dataset used in this analysis was created using Excel and transformed into s
 <br>
 The image below shows the codes needed to create a table in MySQL.
 <br>
-<br>
 
 ![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
 <br>
 <br>
 The table below shows the breakdown of all the variables in the table.
-<br>
-<br>
 
 Variable | Description
 ---- | -------
