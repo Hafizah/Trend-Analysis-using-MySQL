@@ -3,7 +3,7 @@
 Web analytics is used to analyze the success criteria of e-commerce sites in order to improve a company's revenue. One of the techniques used is to perform a traffic source analysis. The objective of the analysis is to discover the type of sources of the traffic to the sites as well as where these sources are coming from. The findings will help company's markerter to make better decision in efficiently directing bidding and guide developer to improve designs and usability of the site itself.
 
 ## Objective
-To analyze the trend of the traffic source analysis by answering several guided questions.
+To analyze the trend of the traffic source on an e-commerce site with the help of guided questions.
 
 ## Dataset
 The dataset used in this analysis was created using Excel and transformed into sql file format using [Sqlizer](https://sqlizer.io). The dataset consists of 40 rows and 6 columns and imitate e-commerce site sessions in October, 2020. You will see the word "session" used frequently in the analysis. Google Analytics defines the word "session" as follows.
@@ -31,12 +31,12 @@ Variable | Description
 
 
 ## Questions
-### 1.  How does the traffic flow looks like on the desktop compared to on the mobile?
+### 1.  How does the traffic flow looks like on desktop compared to mobile device?
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/total%20in%20percentage.jpg)
 
-The CASE and COUNT functions filter and count the total number of user sessions for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the site was accessed through desktops and 35% through mobile phones. This information helps a marketer to make better decisions in terms of bidding direction.
+The CASE and COUNT functions filter and count the total number of user sessions for both devices. Using a simple percentage calculation and rounding method, we can see that 65% of the traffic to the site was accessed through desktops and 35% through mobile phones. 
 
 
 ### 2.  What is the weekly trend of sessions for the month of October for both devices?
@@ -44,23 +44,26 @@ The CASE and COUNT functions filter and count the total number of user sessions 
 #### Answer:
 ![traffic surge](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/traffic%20surge%20.jpg)
 
-Looking at the weekly data distribution, we can see that there was a spike in session on the mobile by 700%. An analyst should investigate this piece of information further to see what could have caused the increase. A good step forward is to compare the trend with previous years data. Changes could be made in terms of sales and promotion on the particular day or week to increase revenue.
+Looking at the weekly data distribution, we can see that there was a spike in session on the mobile by 700%. An analyst should investigate this piece of information further to see what could had caused the increase. A good step forward is to compare the trend with the previous years data. Changes could be made in terms of sales and promotion on the particular day or week to increase future revenue.
 
 
-### 3. Which source contributes most traffic to the site?
+### 3. Which source contributes the most traffic to the site?
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/Traffic%20source.jpg)
 
-It looks like more traffic are coming from Google search engine accessed using desktops! 
+The most traffic to the site was contributed by gsearch accessed by desktops with total session volume of 25 which is 63% of the total sessions. 
 
-### 4. Focusing on desktop and Google search engine, what 
+### 4. Focusing on desktop device and gsearch, how does brand and nonbrand do in terms of session volume?
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/brand%20non.jpg)
 
+The session volume of gsearch brand did 4 times better than gsearch nonbrand. 
+
 ## Conclusion
 
+The analysis above are examples of simple calculations performed by an analyst before venturing into more complex queries. A marketer would be interested to know how these trend affect orders. A good conversion rate is when session to order values is high above a certain percentage. Having these information, a marketer can make better decisions in terms of bidding direction whether to increase or reduce bidding on specific campaign. Aside from that, the analysis above can also help developer to improve designs and usability of the site.
 
 
 
