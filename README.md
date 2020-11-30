@@ -44,7 +44,7 @@ The CASE and COUNT functions filter and count the total number of users sessions
 #### Answer:
 ![traffic surge](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/traffic%20surge%20.jpg)
 
-Looking at the weekly data distribution helps analyst measure spikes and drops in traffic on both devices especially after changes made. For example, increase or decrease in bidding.
+Looking at the weekly data distribution, we can see that there was a spike in session on the mobile by 700%. An analyst should investigate this piece of information further to see what could have caused the increase. A good step forward is to compare the trend with previous years data. Changes could be made in terms of sales and promotion on the particular day or week to increase revenue.
 
 
 ### 3. Which source is bringing more traffic to the site?
