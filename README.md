@@ -10,18 +10,20 @@ The dataset used in this analysis was created using Excel and transformed into s
 
 ![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
 
-You will see the word "session" used frequently in the analysis. Google Analytics defines the word "session" as the following.  
+You will see the word "session" used frequently in the analysis. Google Analytics defines the word "session" as follows.  
 
-> a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
+
+> A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
+
 
 Variable | Description
 ---- | -------
-**session_id** | Primary key
-**created_at** | Date when session takes place
-**user_id** | ID to track user across multiple sessions
+**session_id** | Used as primary key in the table
+**created_at** | The date when each sessions occur
+**user_id** | The ID used to track the user across multiple sessions
 **utm_source** | Urchin tracking module to track where the traffic originated from 
 **utm_campaign** | Urchin tracking module to monitor specific campaign
-**device_type** | Type of device used to access website
+**device_type** | The type of devices used to access the site
 
 ## Questions
 ### 1.  How does traffic on desktop compared to mobile?
