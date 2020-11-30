@@ -12,10 +12,9 @@ The dataset used in this analysis was created using Excel and transformed into s
 
 > A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
 <br>
-<br>
+
 The image below shows the codes needed to create a table in MySQL.
 <br>
-
 ![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
 <br>
 <br>
