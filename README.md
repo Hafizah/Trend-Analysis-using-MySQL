@@ -6,11 +6,12 @@ Web analytics is used to analyze the success criteria of e-commerce sites in ord
 To analyze the trend of the traffic source analysis.
 
 ## Dataset
-The dataset used in this analysis was created using Excel and transformed into sql file format using [Sqlizer](https://sqlizer.io). The dataset consists of 40 rows and 6 columns and imitate e-commerce site sessions in October, 2020.
+The dataset used in this analysis was created using Excel and transformed into sql file format using [Sqlizer](https://sqlizer.io). The dataset consists of 40 rows and 6 columns and imitate e-commerce site sessions in October, 2020. The image below shows the codes needed to create a table in MySQL.
 
 ![table_creation](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/table%20creation.jpg)
 
-Definition of "a session" 
+You will see the word "session" used frequently in the analysis. Google Analytics defines the word "session" as the following.  
+
 > a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
 
 Variable | Description
