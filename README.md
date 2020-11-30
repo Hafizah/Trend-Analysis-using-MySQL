@@ -52,9 +52,9 @@ Looking at the weekly data distribution, we can see that there was a spike in se
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/Traffic%20source.jpg)
 
-It looks like more traffic are coming from Google search engine compared to other means. 
+It looks like more traffic are coming from Google search engine accessed using desktops! 
 
-### 4. 
+### 4. Focusing on desktop and Google search engine, what 
 
 #### Answer:
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/brand%20non.jpg)
