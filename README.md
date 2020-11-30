@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Hafizah/Trend-Analysis-using-MySQL/blob/main/Images/banner.png)
 ## Introduction
-Web analytics is used to analyze the success criteria of e-commerce sites in order to improve a company's revenue. One of the techniques used is to perform a traffic source analysis. The objective of the analysis is to discover the type of sources of the traffic to the sites as well as where these sources are coming from. The findings will help company's markerter to make better decision in efficiently directing bidding and guide developer to improve designs and usability of the site itself.
+Web analytics is used to analyze the success criteria of e-commerce sites in order to improve a company's revenue. One of the techniques used is a traffic source analysis. The objective of this analysis is to discover the most important sources of web traffic as well as where these sources are coming from. The findings of this analysis help a company's markerting team make a more informed decision during the bidding process as well as guide the development team to improve designs and usability of their products.
 
 ## Objective
 To analyze the trend of the traffic source on an e-commerce site with the help of guided questions.
