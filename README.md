@@ -10,7 +10,7 @@ The dataset used in this analysis was created using Excel and transformed into s
 <br>
 <br>
 
-> A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions.
+> A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and e-commerce transactions.
 <br>
 
 The image below shows the codes needed to create a table called "website_session" in MySQL.
